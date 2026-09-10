@@ -1,0 +1,21 @@
+# Quartus and ModelSim generated files
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+
+# Editor and backup files
+*.bak
+*.swp
+
+# Testbenches are kept locally and are not part of the published source set.
+tb*.v
+*_tb.v
+
+# Local build and generated artifacts
+*.sof
+*.pof
+*.rpt
+*.log
+*.qmsg
